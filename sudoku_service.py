@@ -1,5 +1,4 @@
 import time
-
 from imageprocess import Imageprocess
 from properties import file
 from solver import Solver
