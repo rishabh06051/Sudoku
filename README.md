@@ -24,6 +24,8 @@ Tech Stack
 - Flask
 - OpenCV
 - NumPy
+- pytesseract
+- easyOCR
 
 Future Work
 - Improve digit recognition accuracy
